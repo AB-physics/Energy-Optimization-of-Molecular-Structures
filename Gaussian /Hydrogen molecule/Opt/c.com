@@ -1,7 +1,7 @@
 %mem=500MB
 #opt HF/6-31G(d)
 
-بهینه سازی مولکول هیدروژن
+Hydrogen molecule optimization
 
 0 1
 H
