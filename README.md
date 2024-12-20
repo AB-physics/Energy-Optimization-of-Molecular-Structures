@@ -27,6 +27,15 @@ A driver for OPTIM to create stationary point databases using discrete path samp
 
 Visit the PATHSAMPLE website ( https://www-wales.ch.cam.ac.uk/PATHSAMPLE/ ) for further information.
 
+For installation and running the software, please visit the Wales group website at ( https://www.ch.cam.ac.uk/group/wales/person/dw34 ).
+
+
+
+
+
+
+
+
 
 
 
