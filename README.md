@@ -8,7 +8,8 @@
 A program for finding global minima and calculating thermodynamic properties.
 
 This program employs the basin-hopping algorithm described by Wales and Doye (J. Phys. Chem. A, 101, 5111, 1997) to locate global minima on a potential energy surface. Many potentials are included. The latest version also includes implementations of basin-sampling and parallel tempering, along with free energy basin-hopping, generalised basin-hopping, and grand and semi-grand canonical basin-hopping.
-GMIN website for further information.
+
+GMIN website ( https://www-wales.ch.cam.ac.uk/GMIN/ ) for further information.
 
 ### OPTIM
 A program for optimizing geometries and calculating reaction pathways
