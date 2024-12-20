@@ -60,3 +60,5 @@ Orca is a quantum chemistry software used for calculating the electronic structu
 Orca offers a variety of features for quantum chemical computations, including support for various density functional models (DFT) and quantum mechanical methods such as Hartree-Fock, Resolution of Identity MP2 (RI-MP2), and Time-Dependent Density Functional Theory (TDDFT). Additionally, Orca can simulate electronic spectra, molecular structures, molecular thermodynamics, and observable properties.
 
 This software is developed by the University of Technology in Hamburg, Germany, and is used across various fields of chemistry, including computational chemistry, physical chemistry, organic chemistry, and more.
+
+For downloading, installation, and further guidance regarding the software, please visit the official ORCA website at ( https://orcaforum.kofo.mpg.de/app.php/portal ).
