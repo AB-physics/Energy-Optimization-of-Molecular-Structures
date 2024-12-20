@@ -4,17 +4,17 @@
 
 ## Wales Group ( GMIN, OPTIM and PATHSAMPLE )
 
-###GMIN
+### GMIN
 A program for finding global minima and calculating thermodynamic properties.
 
 This program employs the basin-hopping algorithm described by Wales and Doye (J. Phys. Chem. A, 101, 5111, 1997) to locate global minima on a potential energy surface. Many potentials are included. The latest version also includes implementations of basin-sampling and parallel tempering, along with free energy basin-hopping, generalised basin-hopping, and grand and semi-grand canonical basin-hopping. GMIN website for further information.
 
-###OPTIM
+### OPTIM
 A program for optimizing geometries and calculating reaction pathways
 
 OPTIM includes a variety of methods for locating transition states and characterising the corresponding pathways. OPTIM has analytic first and second derivatives coded for dozens of empirical potentials, and can also treat systems involving periodic boundary conditions and solve general optimization problems, such as least squares fits. Visit the OPTIM website for further information.
 
-###PATHSAMPLE
+### PATHSAMPLE
 A driver for OPTIM to create stationary point databases using discrete path sampling and perform kinetic analysis
 
 Visit the PATHSAMPLE website for further information.
