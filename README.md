@@ -4,6 +4,8 @@
 
 Gaussian is a computational chemistry software primarily used by chemists for molecular calculations, the synthesis of organic and inorganic compounds, as well as kinetics studies.
 
+To prepare the input required for the Gaussian software and to analyze the output results from Gaussian, we use the GaussView software.
+
 For downloading, installation, and further guidance regarding the software, please visit the official Gaussian website at ( https://gaussian.com/ ).
 
 ## Wales Group ( GMIN, OPTIM and PATHSAMPLE )
