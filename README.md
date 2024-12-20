@@ -53,7 +53,7 @@ The initial version of Pele was developed by Jacob Stevenson and Stefano Martini
 
 Currently, the advanced version of this software is being developed by the Martiniani research group at New York University (NYU), incorporating new advancements and features that make it suitable for more complex analyses. ( https://github.com/martiniani-lab/pele )
 
-## Orca
+## ORCA
 
 Orca is a quantum chemistry software used for calculating the electronic structure of molecules and their properties. This program includes modern quantum chemistry methods such as Density Functional Theory (DFT), Multi-Body Perturbation Theory (MP2), Coupled Cluster methods, and semi-empirical approaches. ORCA is widely utilized for studying larger molecules, transition metal complexes, and their spectroscopic properties.
 
