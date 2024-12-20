@@ -1,6 +1,8 @@
 # Energy-Optimization-of-Molecular-Structures
 "This repository contains codes, input files, output data, and analyses related to the energy optimization of molecular structures using software such as Gaussian, Orca, PELE, and OPTIM."
-## Gaussian 
+## Gaussian
+
+Gaussian is a computational chemistry software primarily used by chemists for molecular calculations, the synthesis of organic and inorganic compounds, as well as kinetics studies.
 
 ## Wales Group ( GMIN, OPTIM and PATHSAMPLE )
 
