@@ -1,0 +1,5 @@
+! RHF ENGRAD DEF2-SVP TightSCF
+%elprop
+Dipole False
+end
+
