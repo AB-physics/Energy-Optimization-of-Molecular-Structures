@@ -15,11 +15,13 @@ GMIN website ( https://www-wales.ch.cam.ac.uk/GMIN/ ) for further information.
 A program for optimizing geometries and calculating reaction pathways
 
 OPTIM includes a variety of methods for locating transition states and characterising the corresponding pathways. OPTIM has analytic first and second derivatives coded for dozens of empirical potentials, and can also treat systems involving periodic boundary conditions and solve general optimization problems, such as least squares fits.
-Visit the OPTIM website for further information.
+
+Visit the OPTIM website ( https://www-wales.ch.cam.ac.uk/OPTIM/ ) for further information.
 
 ### PATHSAMPLE
-A driver for OPTIM to create stationary point databases using discrete path sampling and perform kinetic analysis
-Visit the PATHSAMPLE website for further information.
+A driver for OPTIM to create stationary point databases using discrete path sampling and perform kinetic analysis.
+
+Visit the PATHSAMPLE website ( https://www-wales.ch.cam.ac.uk/PATHSAMPLE/ ) for further information.
 
 
 
