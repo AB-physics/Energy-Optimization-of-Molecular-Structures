@@ -15,4 +15,5 @@ Bond Length Scan of the Hydrogen Molecule
 H
 H 1 B
 
-B=0.5 S 120 0.01 ```
+B=0.5 S 120 0.01
+```
