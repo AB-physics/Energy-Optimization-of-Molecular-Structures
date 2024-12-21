@@ -5,7 +5,7 @@ Once Gaussian completes the calculations, it generates an output file with the .
 
 ## input
 For the geometric optimization of the hydrogen molecule, I used the Hartree-Fock (HF) method with the 6-31G(d) basis set. I allocated 500 megabytes of memory for the calculations and optimized the hydrogen molecule's geometry using the opt command. The input file was as follows:
-'''bash
+```bash
 
 %mem=500MB
 
@@ -19,4 +19,4 @@ H
 
 H 1 B
 
-B=0.7 '''
+B=0.7 ```
