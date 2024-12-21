@@ -8,15 +8,13 @@ For the geometric optimization of the hydrogen molecule, I used the Hartree-Fock
 ```bash
 
 %mem=500MB
-
 #opt HF/6-31G(d)
 
 Optimization of the hydrogen molecule
 
 0 1
-
 H
-
 H 1 B
 
 B=0.7
+
