@@ -4,3 +4,6 @@ To prepare the input file required for the Gaussian software and to analyze the 
 
 Once Gaussian completes the calculations, it generates an output file with the .out extension. To analyze the results and visualize them, we use the GaussView software.
 ## input
+I performed a bond length scan for the hydrogen molecule using the Hartree-Fock (HF) method and the 6-31G(d) basis set. The bond distance 
+𝐵
+B between the hydrogen atoms started at 0.5 Å and was scanned with steps of 0.01 Å over a range of 0.5 to 1.2 Å. The input file was as follows:
