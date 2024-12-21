@@ -13,3 +13,4 @@ Optimization of the hydrogen molecule
 H
 H 1 B
 B=0.7
+'''
