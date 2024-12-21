@@ -3,3 +3,18 @@ After optimizing the structure of the hydrogen molecule using the Gaussian softw
 (PELE is a partial rewrite in Python of the GMIN, OPTIM, and PATHSAMPLE programs, which were originally written in Fortran by David Wales and his collaborators at the University of Cambridge.)
 
 Based on the guidance provided by Professor David Wales, I learned that I needed to download the Wales group software, which includes GMIN, OPTIM, PATHSAMPLE, and several other programs, from their group's website. Furthermore, I needed to link and configure the Orca software with OPTIM, as it is compatible with several electronic structure packages, to ultimately determine the optimized structure of the hydrogen molecule using this method.
+## input
+
+
+
+
+## output
+
+
+
+
+
+
+
+
+
