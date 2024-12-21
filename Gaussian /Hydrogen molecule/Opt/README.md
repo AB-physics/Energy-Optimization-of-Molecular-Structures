@@ -21,7 +21,7 @@ B=0.7
 After submitting this input to Gaussian software, the output was 
 received as a file with a .out extension. Interpretation of the output 
 indicates that the total energy of the system after optimization is 
-```none E(RHF)=−1.12682781103 Hartrees ```, and the optimized geometry 
+``` E(RHF)=−1.12682781103 Hartrees ```, and the optimized geometry 
 corresponds to a bond length of 0.7301 Å between the two hydrogen 
 atoms.
 
