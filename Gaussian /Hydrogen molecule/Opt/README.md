@@ -3,5 +3,5 @@ To prepare the input file required for the Gaussian software and to analyze the 
 
 Once Gaussian completes the calculations, it generates an output file with the .out extension. To analyze the results and visualize them, we use the GaussView software.
 
-
+## input
 For the geometric optimization of the hydrogen molecule, I used the Hartree-Fock (HF) method with the 6-31G(d) basis set. I allocated 500 megabytes of memory for the calculations and optimized the hydrogen molecule's geometry using the opt command. The input file was as follows:
