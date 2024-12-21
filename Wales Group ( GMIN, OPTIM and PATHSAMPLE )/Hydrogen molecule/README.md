@@ -7,7 +7,25 @@ Based on the guidance provided by Professor David Wales, I learned that I needed
 To perform the geometric optimization of the hydrogen molecule ``` (H₂) ``` and related calculations, I prepared four main files that work together seamlessly:
 #### odata File
 This file contains the initial settings for starting the optimization process and instructs the OPTIM program to use Orca for calculations. It specifies the execution path for Orca and includes settings related to the computations. For example, in this file, I defined that OPTIM should utilize Orca to compute energy and gradients, and I provided the necessary input files, including the Orca path.
+```
+BFGSMIN 1.0D-8
+CONVERGE 0.01 1.0D-8
+UPDATES 100 100 5 5
+MAXERISE 1.0D-5 0.02D0
+MAXBFGS 0.02 0.1
+BFGSSTEPS 1000
 
+DUMPDATA
+ENDNUMHESS
+
+RADIUS 2000.0
+PERMDIST
+ORCA 0 1 /home/ahmad/Downloads/orca_5_0_4_linux_x86-64_shared_openmpi411/orca
+
+POINTS
+H 0.0000 0.0000 0.0000
+H 0.0000 0.0000 0.7400
+```
 
 
 ## output
