@@ -4,9 +4,7 @@ After optimizing the structure of the hydrogen molecule using the Gaussian softw
 
 Based on the guidance provided by Professor David Wales, I learned that I needed to download the Wales group software, which includes GMIN, OPTIM, PATHSAMPLE, and several other programs, from their group's website. Furthermore, I needed to link and configure the Orca software with OPTIM, as it is compatible with several electronic structure packages, to ultimately determine the optimized structure of the hydrogen molecule using this method.
 ## input
-To perform the geometric optimization of the hydrogen molecule (H₂) 
-and related calculations, I prepared four main files that work together 
-seamlessly:
+To perform the geometric optimization of the hydrogen molecule ``` (H₂) ``` and related calculations, I prepared four main files that work together seamlessly:
 
 
 
