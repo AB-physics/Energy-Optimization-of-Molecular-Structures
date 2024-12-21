@@ -23,4 +23,5 @@ GaussView software. The scan results perfectly matched the
 optimization of the hydrogen molecule, demonstrating the accuracy of 
 the results obtained from both calculations.
 
+![Bond Length Scan Result](b_tot_ener.jpg)
 
