@@ -18,3 +18,7 @@ H 1 B
 B=0.5 S 120 0.01
 ```
 ## output
+After submitting this input to Gaussian, I transferred the output to the 
+GaussView software. The scan results perfectly matched the 
+optimization of the hydrogen molecule, demonstrating the accuracy of 
+the results obtained from both calculations.
