@@ -43,6 +43,16 @@ H 0.0000000000 -0.0000000010 -0.0034650345
 H 0.0000000000 0.0000000010 0.7444650345
 *
 ```
+#### ORCA.template File
+This file is similar to orca.in but serves as a template for Orca settings. It is prepared specifically for OPTIM to perform optimizations based on  this template. The file includes similar settings for the calculation of energy and gradients as in orca.in.
+
+Contents of this file:
+```
+! RHF ENGRAD DEF2-SVP TightSCF
+%elprop
+Dipole False
+End
+```
 
 
 
