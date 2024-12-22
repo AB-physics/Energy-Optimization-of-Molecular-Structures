@@ -88,29 +88,11 @@ Define the detailed computational settings in Orca, such as the calculation meth
 Handles the allocation of computational resources and manages parallel processing using SLURM.
 
 Together, these files ensure that the geometric optimization calculations for the hydrogen molecule are executed accurately and efficiently.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## output
+After running OPTIM and Orca, the following outputs were generated:
+### a) OPTIM Files
+ converged.xyz: Contains the final optimized coordinates of the molecule.
+
 
 
 
