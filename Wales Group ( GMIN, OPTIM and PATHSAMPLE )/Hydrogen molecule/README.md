@@ -28,7 +28,15 @@ POINTS
 H 0.0000 0.0000 0.0000
 H 0.0000 0.0000 0.7400
 ```
+#### orca.in File
+This is the main input file for Orca, where the calculation settings are 
+specified in greater detail. For the hydrogen molecule calculations, I 
+used the RHF (Restricted Hartree-Fock) model and the DEF2-SVP basis 
+set. Additionally, I instructed Orca to perform ENGRAD calculations 
+(energy and gradients) and to carry out TightSCF computations with 
+high accuracy.
 
+Settings in this file:
 
 ## output
 
