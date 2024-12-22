@@ -80,18 +80,23 @@ pwd >> nodes.info
 ```
 #### Overall Functionality
 These four files work together in a coordinated manner:
-###### odata:
+##### odata:
 Directs OPTIM to use Orca for computations and prepares the necessary input configurations.
-###### orca.in and ORCA.template:
+##### orca.in and ORCA.template:
 Define the detailed computational settings in Orca, such as the calculation method, basis set, and specific tasks like energy and gradient computations.
-###### sbatch.optim:
+##### sbatch.optim:
 Handles the allocation of computational resources and manages parallel processing using SLURM.
 
 Together, these files ensure that the geometric optimization calculations for the hydrogen molecule are executed accurately and efficiently.
 ## output
 After running OPTIM and Orca, the following outputs were generated:
 ### a) OPTIM Files
- converged.xyz: Contains the final optimized coordinates of the molecule.
+##### converged.xyz:
+Contains the final optimized coordinates of the molecule.
+```
+H 0.00000000000000 -0.101163601140238E-08 -0.346503447254760E-02
+H 0.00000000000000 0.101163601140238E-08 0.743465034472548
+```
 
 
 
