@@ -53,8 +53,31 @@ Contents of this file:
 Dipole False
 End
 ```
+#### sbatch.optim File
+This file is prepared for running parallel computations using SLURM. It instructs SLURM on how to manage parallel processes and allocate the necessary resources. In this setup, 10 processors (each with one core) are specified for the computations.
 
+Contents of this file:
+```
+#!/bin/bash
+#SBATCH -p WALES
+#SBATCH --time=1-0:00:0
+#SBATCH -J H2_Optimization
+#SBATCH -o slurm.out
+#SBATCH -e slurm.err
 
+# Number of MPI tasks
+#SBATCH -n 10
+#
+# Number of cores per task
+#SBATCH -c 1
+
+echo $SLURM_NTASKS > nodes.info
+srun hostname >> nodes.info
+echo $USER >> nodes.info
+pwd >> nodes.info
+
+/path/to/OPTIM > output
+```
 
 
 
