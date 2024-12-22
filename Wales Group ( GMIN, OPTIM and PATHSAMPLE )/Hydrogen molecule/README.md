@@ -91,12 +91,57 @@ Together, these files ensure that the geometric optimization calculations for th
 ## output
 After running OPTIM and Orca, the following outputs were generated:
 ### a) OPTIM Files
-##### converged.xyz:
+#### converged.xyz:
 Contains the final optimized coordinates of the molecule.
 ```
 H 0.00000000000000 -0.101163601140238E-08 -0.346503447254760E-02
 H 0.00000000000000 0.101163601140238E-08 0.743465034472548
 ```
+#### min.data.info:
+Contains the final optimization information, including energy and coordinates.
+```
+Final energy: -1.1289285686 Eh
+Final coordinates:
+H1: 0.000000000000000 -0.000000001011636 -0.003465034472548
+H2: 0.000000000000000 0.000000001011636 0.743465034472548
+points.final: Final coordinates in a more compact format.
+0.00000000000000 -0.101163601140238E-08 -0.373465034472548
+0.00000000000000 0.101163601140238E-08 0.373465034472548
+```
+### b) Orca Files
+#### ORCA.out:
+Contains details of the SCF calculations, energy, and molecular analyses.
+```
+Total SCF Energy: -1.128927852814 Eh
+Molecular Coordinates in Ångstroms:
+H 0.000000 -0.000000 -0.003465
+H 0.000000 0.000000 0.744465
+Mayer Bond Order: 1.0000 (H-H bond)
+```
+#### ORCA.engrad:
+Contains energy and gradients.
+```
+Total Energy: -1.128927852814 Eh
+Gradients:
+0.000000000000
+-0.000000000042
+-0.000756769147
+```
+#### ORCA_property.txt:
+Contains computed properties such as energy and Mayer bond order analysis.
+```
+SCF Energy: -1.1289278528 Eh
+Bond Order between atoms: 1.0000
+```
+
+
+
+
+
+
+
+
+
 
 
 
