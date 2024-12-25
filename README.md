@@ -31,26 +31,6 @@ Visit the PATHSAMPLE website ( https://www-wales.ch.cam.ac.uk/PATHSAMPLE/ ) for 
 
 For installation and running the software, please visit the Wales group website at ( https://www.ch.cam.ac.uk/group/wales/person/dw34 ).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## PELE
 pele : Python Energy Landscape Explorer.
 
@@ -73,3 +53,5 @@ Orca offers a variety of features for quantum chemical computations, including s
 This software is developed by the University of Technology in Hamburg, Germany, and is used across various fields of chemistry, including computational chemistry, physical chemistry, organic chemistry, and more.
 
 For downloading, installation, and further guidance regarding the software, please visit the official ORCA website at ( https://orcaforum.kofo.mpg.de/app.php/portal ).
+
+## PySCF
