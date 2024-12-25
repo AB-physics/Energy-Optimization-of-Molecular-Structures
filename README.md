@@ -55,3 +55,6 @@ This software is developed by the University of Technology in Hamburg, Germany, 
 For downloading, installation, and further guidance regarding the software, please visit the official ORCA website at ( https://orcaforum.kofo.mpg.de/app.php/portal ).
 
 ## PySCF
+
+
+## Psi4
