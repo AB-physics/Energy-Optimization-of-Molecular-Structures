@@ -5,7 +5,8 @@
 First, create a new Conda environment for Psi4. Specify the Python version you want to use:
 ‍```
 conda create -n psi4 python=3.12
-``
+```
+```
 
 This command creates a new environment named psi4 with Python 3.12.
 
