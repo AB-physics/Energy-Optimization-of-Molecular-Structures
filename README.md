@@ -55,6 +55,9 @@ This software is developed by the University of Technology in Hamburg, Germany, 
 For downloading, installation, and further guidance regarding the software, please visit the official ORCA website at ( https://orcaforum.kofo.mpg.de/app.php/portal ).
 
 ## PySCF
+PySCF (Python for Strongly Correlated Systems) is an open-source quantum chemistry library designed for advanced computations in molecular and periodic systems. Built on Python, it includes a suite of modules for various tasks such as molecule definition, self-consistent field (SCF) calculations, correlation theories like MP2, CCSD, and multiconfiguration calculations (CASSCF).
+
+For more information and access to PySCF documentation, visit the official website at https://pyscf.org/index.html and the repository at https://github.com/pyscf/pyscf.
 
 
 ## Psi4
