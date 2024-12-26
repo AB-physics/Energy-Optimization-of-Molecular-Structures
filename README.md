@@ -58,3 +58,6 @@ For downloading, installation, and further guidance regarding the software, plea
 
 
 ## Psi4
+Psi4 is an open-source software suite for ab initio simulations in quantum chemistry. This software is designed to perform accurate and efficient calculations of molecular properties and has the capability to execute computations with over 2500 basis functions on multi-core machines. Due to its combination of high performance, user-friendly interface, and support for the Python language, Psi4 is one of the leading tools in the field of computational chemistry.
+
+For more information and access to Psi4 documentation, please visit the official website at www.psicode.org and the repository at https://github.com/psi4/psi4/.
