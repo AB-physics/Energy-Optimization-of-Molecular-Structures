@@ -6,3 +6,9 @@ cd ~/Downloads/wales/GMIN/GMIN/build/gfortran
 FC=mpif90 cmake ~/Downloads/wales/GMIN/source/ -DCOMPILER_SWITCH=gfortran
 make -j$(nproc)
 ```
+Then go to the folder ``` /Downloads/wales/GMIN/GMIN/build/gfortran ``` and run the following command:
+```
+ccmake .
+```
+Next, configure the settings: turn on WITH_MPI and turn off WITH_ALIGN.
+
