@@ -2,9 +2,9 @@
 
 I used the following versions of the tools and libraries for the compilation and setup:
 
-###### GCC 7.5.0
-###### OpenMPI 4.1.2 
-###### CMake 3.22.1
+##### GCC 7.5.0
+##### OpenMPI 4.1.2 
+##### CMake 3.22.1
 ```
 rm -rf ~/Downloads/wales/GMIN/GMIN/build/gfortran
 mkdir -p ~/Downloads/wales/GMIN/GMIN/build/gfortran
