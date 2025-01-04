@@ -10,7 +10,7 @@ Then go to the folder ``` /Downloads/wales/GMIN/GMIN/build/gfortran ``` and run 
 ```
 ccmake .
 ```
-![Description of Image](path/to/image.png)
+[ccmake screenshot](https://github.com/AB-physics/Energy-Optimization-of-Molecular-Structures/blob/main/ccmake.png)
 
 Next, configure the settings: turn on WITH_MPI and turn off WITH_ALIGN.
 
